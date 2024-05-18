@@ -21,7 +21,7 @@ SPdata Online é um sistema desenvolvido para auxiliar na gestão de uma clínic
 
 ## Como Usar
 
-1. Acesse o sistema SPdata Online através do link [aqui](#).
+1. Acesse o sistema SPdata Online através do link [aqui](https://jordanpeteroliver.github.io/sp-data-online).
 2. Agende consultas utilizando o documento do Excel Online.
 3. Mantenha os prontuários dos pacientes atualizados utilizando o documento do Word Online.
 4. Entre em contato com a clínica através do botão do WhatsApp no canto inferior direito da página.
